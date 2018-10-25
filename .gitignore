@@ -1,0 +1,15 @@
+local-values.conf
+target
+*~
+bin
+*.idea
+*.iml
+*.eml
+.project
+.settings
+.classpath
+/target
+.springBeans
+*.xml.versionsBackup
+pom.xml.releaseBackup
+release.properties
