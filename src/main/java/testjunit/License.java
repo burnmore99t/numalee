@@ -5,7 +5,7 @@ public class License {
 		String email = "suchada@numalee.com";
 		String company = "numelee mee look meaw meaw";
 		String exp_date = "27/10/2999";
-		String salt = "พิมพ์คำว่าเดอะเลขสามอมิโกเดิมเอสในช่องนี้";//ข้องใจติดต่อ theking99_dom@hotmail.com +66934093673
+		String salt = "พิมพ์คำว่าเดอะเลขสามอมิโกเดิมเอสในช่องนี้";//ข้องใจติดต่อ theking99dom@hotmail.com +66934093673
 		String beforeHash = email + " " + company + " " + exp_date + " " + salt;
 		Long result = 0L;
 		int v2 = 0;
